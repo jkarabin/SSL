@@ -1,1 +1,1 @@
-# SSL
+Compilador Utilizado: MINGW64
