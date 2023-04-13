@@ -1,0 +1,1 @@
+Compilador Utilizado: GCC version 6.3.0
